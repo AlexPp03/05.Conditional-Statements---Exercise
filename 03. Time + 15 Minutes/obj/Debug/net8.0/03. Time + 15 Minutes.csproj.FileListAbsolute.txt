@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.exe
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.deps.json
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.runtimeconfig.json
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.pdb
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\refint\03. Time + 15 Minutes.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.pdb
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\ref\03. Time + 15 Minutes.dll
