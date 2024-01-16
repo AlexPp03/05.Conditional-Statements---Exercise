@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.exe
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.deps.json
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.runtimeconfig.json
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.pdb
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\refint\08. Lunch Break.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.pdb
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\ref\08. Lunch Break.dll
