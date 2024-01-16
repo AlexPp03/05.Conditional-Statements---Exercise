@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.exe
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.deps.json
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.runtimeconfig.json
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.pdb
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\refint\07. Shopping.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.pdb
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\ref\07. Shopping.dll
