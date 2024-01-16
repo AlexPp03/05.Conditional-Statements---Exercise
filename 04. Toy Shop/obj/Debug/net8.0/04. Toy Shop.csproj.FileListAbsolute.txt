@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.exe
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.deps.json
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.runtimeconfig.json
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.pdb
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\refint\04. Toy Shop.dll
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.pdb
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\ref\04. Toy Shop.dll
